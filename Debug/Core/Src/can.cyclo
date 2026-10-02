@@ -1,0 +1,10 @@
+../Core/Src/can.c:6:6:init_configs	5
+../Core/Src/can.c:37:6:create_writeparam_send	1
+../Core/Src/can.c:48:6:create_status_send	1
+../Core/Src/can.c:65:6:process_first	1
+../Core/Src/can.c:73:6:process_second	1
+../Core/Src/can.c:81:6:process_messages	3
+../Core/Src/can.c:103:19:can_send	2
+../Core/Src/can.c:115:6:send_login_ack	4
+../Core/Src/can.c:132:6:send_status	1
+../Core/Src/can.c:138:6:send_writeparam	1

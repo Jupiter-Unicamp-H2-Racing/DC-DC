@@ -1,0 +1,2 @@
+../Core/Src/uart.c:9:6:print	216	static
+../Core/Src/uart.c:20:6:println	216	static

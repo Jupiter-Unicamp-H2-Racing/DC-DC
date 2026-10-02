@@ -1,0 +1,2 @@
+../Core/Src/conversor.c:6:7:power_control	40	static
+../Core/Src/conversor.c:31:6:conversor_run	72	static
