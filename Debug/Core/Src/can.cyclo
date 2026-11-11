@@ -1,0 +1,12 @@
+../Core/Src/can.c:7:6:init_configs	3
+../Core/Src/can.c:38:6:create_writeparam_send	1
+../Core/Src/can.c:48:6:send_writeparam	1
+../Core/Src/can.c:54:6:create_status_send	1
+../Core/Src/can.c:71:6:process_first	1
+../Core/Src/can.c:79:6:process_second	1
+../Core/Src/can.c:87:6:process_messages	5
+../Core/Src/can.c:138:6:HAL_FDCAN_RxFifo0Callback	6
+../Core/Src/can.c:168:19:can_send	2
+../Core/Src/can.c:180:6:send_login_ack	4
+../Core/Src/can.c:197:6:send_status	1
+../Core/Src/can.c:203:6:can_check_bus	3

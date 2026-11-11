@@ -1,0 +1,12 @@
+../Core/Src/can.c:7:6:init_configs	16	static
+../Core/Src/can.c:38:6:create_writeparam_send	24	static
+../Core/Src/can.c:48:6:send_writeparam	8	static
+../Core/Src/can.c:54:6:create_status_send	40	static
+../Core/Src/can.c:71:6:process_first	4	static
+../Core/Src/can.c:79:6:process_second	4	static
+../Core/Src/can.c:87:6:process_messages	32	static,ignoring_inline_asm
+../Core/Src/can.c:138:6:HAL_FDCAN_RxFifo0Callback	24	static,ignoring_inline_asm
+../Core/Src/can.c:168:19:can_send	24	static
+../Core/Src/can.c:180:6:send_login_ack	24	static
+../Core/Src/can.c:197:6:send_status	8	static
+../Core/Src/can.c:203:6:can_check_bus	56	static
